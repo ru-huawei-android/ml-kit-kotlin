@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"1340007000005247584",
+		"product_id":"736430079244455522",
+		"client_id":"364643589663229120",
+		"client_secret":"EA706292A0B039157B8B291829143BA580A8AD153394CA33FAAF666DEE8D5FC7",
+		"app_id":"102731089",
+		"package_name":"com.huawei.mlkit.example",
+		"api_key":"CV7pEq1JzwwIF34AkU1chPpJkaEh2NQWqNScBm6rqb8+hJZyGpkLtO64wddbRrpv+UDcQdmTy7Sa5Lzq/EWMsLoyOla/"
+	},
+	"configuration_version":"1.0"
+}

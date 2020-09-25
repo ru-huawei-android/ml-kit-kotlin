@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mlkit_example</string>
+    <string name="onfail">Failure!</string>
+    <string name="nomodel">- No model</string>
+    <string name="modelsuccess">- Model downloaded</string>
+    <string name="apikey">CV7pEq1JzwwIF34AkU1chPpJkaEh2NQWqNScBm6rqb8+hJZyGpkLtO64wddbRrpv+UDcQdmTy7Sa5Lzq/EWMsLoyOla/</string>
+
+
+</resources>
